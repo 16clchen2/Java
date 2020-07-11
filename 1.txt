@@ -1,0 +1,4 @@
++ `git reset --hard[局部索引值]`
++ `git reset --hard HEAD^`：一个"^"表示后退一个版本
++ `git reset --hard HEAD~n`:n表示后退n个版本
+   + 参数：`--soft`,`--mixed`
